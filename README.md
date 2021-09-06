@@ -14,7 +14,7 @@
 
 ### Cтатистика
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KarinaValiaeva&layout=compact)](https://github.com/anuraghazra/github-readme-stats) ![Karina Valiaeva's GitHub stats](https://github-readme-stats.vercel.app/api?username=KarinaValiaeva&show_icons=true&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KarinaValiaeva&layout=compact&theme=dark&bg_color=4d4d4d)](https://github.com/anuraghazra/github-readme-stats) ![Karina Valiaeva's GitHub stats](https://github-readme-stats.vercel.app/api?username=KarinaValiaeva&show_icons=true&theme=dark&bg_color=4d4d4d)
 
 
 ### Контакты
