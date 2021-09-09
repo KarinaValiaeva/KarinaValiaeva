@@ -1,7 +1,10 @@
-<!-- ##Привет!
+### Привет!
 
-###Обо мне -->
-
+ :black_circle: Я начинающий Front-end разработчик на ReactJS.
+ :black_circle: Открыта для участия в различных проетках.
+ :black_circle: Непрерывно изучаю всё, что связано с front-end разработкой.
+ :black_circle: Реализовала два проекта на ReactJS c с возможностями авторизации и регистрации пользователей, еще несколько проектов на чистом HTML и CSS с использованием технологий flexbox и grid layout.
+ :black_circle: В своих проектах придерживаюсь БЭМ-методологии.
 
 
 ### Технический стек
@@ -20,18 +23,3 @@
 ### Контакты
 
 [![Facebook](https://img.shields.io/badge/-Facebook-4d4d4d?style=plastic&logo=Facebook)](https://www.facebook.com/karina.kolpakova.7/) [![Telegram](https://img.shields.io/badge/-Telegram-4d4d4d?style=plastic&logo=Telegram)](https://t.me/karina_valiaeva) [![Linkedin](https://img.shields.io/badge/-Linkedin-4d4d4d?style=plastic&logo=Linkedin)](https://www.linkedin.com/in/karina-valiaeva-843044191) 
-
-<!--
-**KarinaValiaeva/KarinaValiaeva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
